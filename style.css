@@ -1,0 +1,53 @@
+body{
+    background-image: url("https://images.wallpaperscraft.com/image/bridge_traffic_cars_139343_1920x1080.jpg");
+    background-color: wheat;
+    
+}
+.menu{
+    font-size: 24px;
+    color: red;
+    background-image: url("https://i0.wp.com/media1.tenor.com/images/622431b9aafb96fda136a503f9508e66/tenor.gif");
+    background-color: white;
+    font-style: inherit;
+}
+.des{
+     color:yellow ;
+     font-size: 24px;
+     font-style: inherit;
+}
+.title{
+    font-size: 30px;
+    color: red;
+    font-style: inherit;
+}
+p{
+    font-size: 25px;
+    color: white;
+    font-style: inherit;
+}
+.list{
+    font-size: 30px;
+    color: red;
+    font-style: inherit;
+}
+.ult{
+    color: red;
+    font-style: inherit;
+}
+.truck{
+    color: yellow;
+    font-style: inherit;
+}
+.sports{
+    font-size: 20px;
+    font-style: inherit;
+    color: yellow;
+}
+.trlist{
+    font-size: 20px;
+    font-style: inherit;
+    color: yellow;
+}
+.suv{
+    color: yellow;
+}
